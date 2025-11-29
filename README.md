@@ -9,3 +9,4 @@ app em react native para a disciplina de tecnologias móveis e híbridas.
 - aperte 'w' no terminal para abrir a versão web no navegador
 
 **lembre-se de deixar a api rodando para que tudo funcione.**
+https://github.com/liivvvv/api-tarefas.git
